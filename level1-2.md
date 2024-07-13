@@ -12,7 +12,7 @@ Each level has access to the password of the next level. Your job is to somehow 
 ```json
 "Username":"natas2"
 "Password":"TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI"
-"Url":"http://natas1.natas.labs.overthewire.org"
+"Url":"http://natas2.natas.labs.overthewire.org"
 ```
 ## Level 2-3
 How to find Next level password First two are easy but this one is pretty good one us need to see source code than you will found an image use its source url and then check the files directory , there you will find the login of natas 3rd password in user.txt
